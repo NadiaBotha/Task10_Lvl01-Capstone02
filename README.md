@@ -23,6 +23,9 @@ HyperionDev
 ## Installing and running the program
 Install Python 3.7 or a later version by clicking [here](https://www.python.org/downloads/).
 After installing Python, download and install the pygame module. Please see steps [here](https://www.pygame.org/wiki/GettingStarted).
+
+Download all the files from the GitHub repository. Make sure that all the .jpg and .png files are saved in the same folder as the task15_game.py file.
+
 Open Python IDE, IDLE, from the start menu. In IDLE, select file, open and open task15_game.py. 
 Select Run, Run the module, from the top ribbon. 
 
